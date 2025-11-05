@@ -1,4 +1,3 @@
-scraper/scrape.py
 import os, time, hashlib, requests, feedparser, sys
 from datetime import datetime, timezone
 
